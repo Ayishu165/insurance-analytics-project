@@ -1,2 +1,5 @@
 .venv
 data/
+# But keep DVC tracking files
+!data/*.dvc
+!*.csv.dvc
