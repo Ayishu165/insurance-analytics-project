@@ -1,4 +1,0 @@
-[core]
-    remote = localstorage
-['remote "localstorage"']
-    url = D:\kaimtenx\week3\insurance-analytics-project\dvcstore1
